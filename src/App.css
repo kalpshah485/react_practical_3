@@ -2,7 +2,21 @@ body {
   background-color: #f0efe9;
 }
 .dateTime {
+  color: #595c6c;
   margin-top: 100px;
   text-align: center;
 }
-
+.button {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  color: #47c28e;
+  font-size: 40px;
+  background-color: #50e3a4;
+  border: 0px;
+}
+.button-center {
+  margin: 0 auto !important;
+  text-align: center;
+  width: 20%;
+}
